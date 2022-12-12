@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["folder.page.scss"],"sourcesContent":["ion-menu-button {\n  color: var(--ion-color-primary);\n}\n.map{\n  height: 100%;\n  width: 100%;\n  background-color: transparent;\n  opacity: 0;\n  transition: opacity 150ms ease-in;\n}\n.map.visible{\n  opacity: 1;\n}\n"],"file":"folder.page.css"}
